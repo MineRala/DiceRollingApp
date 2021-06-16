@@ -1,2 +1,2 @@
 # DiceRollingApp
-random dice roll app
+Random dice roll app
